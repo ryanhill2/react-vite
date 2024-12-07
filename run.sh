@@ -10,7 +10,7 @@ cp -r dist/* .
 git add .
 
 # Commit changes with a commit message
-git commit -m "Update home page title and location to Sligo"
+git commit -m "reverting code back to where it can build locally"
 
 # Push changes to remote repository
 git push
